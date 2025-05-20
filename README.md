@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Technical Trainer** with 3+ years of experience building scalable web applications using **Python (Django, Flask)** and the **MERN stack**. As the founder of a thriving [YouTube channel](https://www.youtube.com/@navaidmails), I simplify complex technical concepts through 300+ tutorials, empowering thousands of learners to become job-ready developers.
+I'm a passionate **Full Stack Developer** and **Technical Trainer** with 2+ years of experience building scalable web applications using **Python (Django, Flask)** and the **MERN stack**. As the founder of a thriving [YouTube channel](https://www.youtube.com/@navaidmails), I simplify complex technical concepts through 300+ tutorials, empowering thousands of learners to become job-ready developers.
 
 ### 💼 Currently at:
 - 🧑‍💻 **Full Stack Developer** @ Zeominds IT Solutions (Hyderabad)
